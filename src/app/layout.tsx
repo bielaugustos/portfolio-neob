@@ -8,7 +8,15 @@ import { ThemeProvider } from '@/components/theme-provider'
 const montserrat = Montserrat({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Gabriel Augusto',
+  title: 'Gabriel Augusto © Ioverso',
+   icons: {
+        icon: [
+          { url: '/favicon.ico', type: 'image/x-icon' },
+        ],
+        apple: [
+          { url: '/favicon.png' },
+        ],
+      }
 }
 
 export default function RootLayout({
