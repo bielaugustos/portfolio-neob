@@ -4,7 +4,7 @@ import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal, Key } from
 export default function Blog() {
   return (
     <div>
-      <h1 className="font-heading mb-8 text-2xl sm:text-4xl">Blog</h1>
+      <h1 className="font-heading mb-8 text-2xl sm:text-4xl">Blog ©Ioverso</h1>
 
       <div className="flex flex-col gap-5">
         {POSTS.map((post: { title: string | number | bigint | boolean | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<string | number | bigint | boolean | ReactPortal | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | null | undefined> | null | undefined; description: string | number | bigint | boolean | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<string | number | bigint | boolean | ReactPortal | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | null | undefined> | null | undefined; repoUrl: string | undefined }, id: Key | null | undefined) => {

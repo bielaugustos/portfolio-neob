@@ -12,6 +12,13 @@ const PROJECTS: {
     previewImage: '/project1.png',
     repoUrl: 'https://github.com/bielaugustos/devlinks?tab=readme-ov-file',
   },
+   {
+    name: 'NLW#6 Mission Origin',
+    description: 'Origin Six uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas.',
+    liveLink: 'https://bielaugustos.github.io/nlwVI-origin/',
+    previewImage: '/project2.png',
+    repoUrl: 'https://github.com/bielaugustos/nlwVI-origin?tab=readme-ov-file',
+  },
 ]
 
 export default PROJECTS

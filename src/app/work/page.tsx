@@ -18,7 +18,7 @@ export default function Work() {
                 ratio={42 / 26}
               >
                 <img
-                  className="rounded-base w-full"
+                  className="rounded-base w-full h-full object-cover"
                   src={`${project.previewImage}`}
                   alt={project.name}
                 />
