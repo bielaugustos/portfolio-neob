@@ -29,18 +29,18 @@ export default function Work() {
                   {project.name}
                 </h2>
 
-                <p className="mt-2">{project.description}</p>
+                <p className="mt-2 text-xs">{project.description}</p>
 
                 <div className="mt-8 grid grid-cols-2 gap-5">
                   <a
-                    className="border-border bg-secondary-background text-foreground shadow-shadow rounded-base font-base hover:translate-x-boxShadowX hover:translate-y-boxShadowY cursor-pointer border-2 px-4 py-2 text-center text-sm transition-all hover:shadow-none sm:text-base"
+                    className="border-border bg-secondary-background text-foreground shadow-shadow rounded-base font-base hover:translate-x-boxShadowX hover:translate-y-boxShadowY cursor-pointer border-2 px-4 py-3 text-center text-xs transition-all hover:shadow-none"
                     href={project.liveLink}
                     target="_blank"
                   >
                     Visitar
                   </a>
                   <a
-                    className="border-border bg-secondary-background text-foreground shadow-shadow rounded-base font-base hover:translate-x-boxShadowX hover:translate-y-boxShadowY cursor-pointer border-2 px-4 py-2 text-center text-sm transition-all hover:shadow-none sm:text-base"
+                    className="border-border bg-secondary-background text-foreground shadow-shadow rounded-base font-base hover:translate-x-boxShadowX hover:translate-y-boxShadowY cursor-pointer border-2 px-4 py-3 text-center text-xs transition-all hover:shadow-none"
                     href={project.repoUrl}
                     target="_blank"
                   >

@@ -29,7 +29,7 @@ export default function Nav() {
 
   return (
     <div className="fixed top-5 left-0 z-50 w-full">
-      <nav className="text-main-foreground border-border shadow-shadow rounded-base bg-main font-base w450:gap-4 mx-auto flex w-max gap-5 border-2 p-2.5 px-5 text-sm sm:text-base">
+      <nav className="text-main-foreground border-border shadow-shadow rounded-base bg-main font-base w450:gap-4 mx-auto flex w-max gap-5 border-2 p-2.5 px-5 text-sm sm:text-xs">
         {links.map((link) => {
           return (
             <Link
