@@ -1,5 +1,7 @@
-import ContributionGrid from '@/components/ContribuitionGrid';
+
 import Links from '@/components/links'
+import Image from 'next/image'
+
 
 export default function Home() {
   return (
@@ -33,9 +35,10 @@ export default function Home() {
         </p>
         <p className="font-bold">#existe mais de 11 ambições aqui;</p>
 
+        <Image src="/asteroidsHome.png" alt="Descrição da imagem" width={700} height={300} className='absolute text-center' style={{ zIndex: -1 }} />
 
 
-        <p className="text-xs font-normal text-center mt-80">
+        <p className="text-xs font-normal text-center mt-10">
           Este portfólio é uma coleção de modelos de código aberto (open-source)
           no estilo neobrutalista.
           <br></br>

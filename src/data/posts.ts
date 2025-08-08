@@ -5,6 +5,11 @@ const POSTS: {
 
 }[] = [
   {
+    title: 'Swift para Crianças Grandes',
+    description: 'Um guia para mentes curiosas e criativas!',
+    repoUrl: 'https://www.notion.so/Swift-para-Crian-as-Grandes-2486cbadbdb380d78814d9619305aeb4?source=copy_link',
+  },
+  {
     title: 'Python para Crianças Grandes',
     description: 'Aprendendo a brincar com códigos e criar coisas mágicas no computador.',
     repoUrl: 'https://www.notion.so/Python-para-Crian-as-Grandes-2476cbadbdb38037ba3ad53a2a10546e?source=copy_link',
