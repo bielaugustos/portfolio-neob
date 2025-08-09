@@ -9,9 +9,9 @@ export default function Home() {
       <h1 className="font-heading text-2xl sm:text-4xl text-center">
         Gabriel Augusto
       </h1>
-      <p className="text-center font-normal">
+      <p className="text-center font-semibold">
         Olá Universo! Sou{" "}
-        <span className="font-bold text-amber-600">junior web developer</span>{" "}
+        <span className="font-extrabold text-amber-600">junior web developer</span>{" "}
         (BR).
       </p>
 
@@ -30,15 +30,15 @@ export default function Home() {
         </p>
         <br></br>
         <p>
-          <span className="font-bold text-amber-600">ambições</span> : Aprender
+          <span className="text-amber-600">ambições</span> : Aprender
           inglês, criar aplicativos, terminar meu livro...
         </p>
-        <p className="font-bold">#existe mais de 11 ambições aqui;</p>
+        <p className="font-base"><span className='text-amber-600'>#existe</span> mais de 11 ambições aqui...</p>
 
-        <Image src="/asteroidsHome.png" alt="Descrição da imagem" width={700} height={300} className='absolute text-center' style={{ zIndex: -1 }} />
+        <Image src="/asteroidsHome.png" alt="Descrição da imagem" width={400} height={300} className='flex mx-auto' style={{ zIndex: -1 }} />
 
 
-        <p className="text-xs font-normal text-center mt-10">
+        <p className="text-xs font-normal text-center">
           Este portfólio é uma coleção de modelos de código aberto (open-source)
           no estilo neobrutalista.
           <br></br>

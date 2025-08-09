@@ -20,6 +20,16 @@ const POSTS: {
     repoUrl: 'https://www.notion.so/JavaScript-para-Crian-as-Grandes-2466cbadbdb38095a793da17a2d43fff?source=copy_link',
   },
   {
+    title: 'CSS para Crianças Grandes',
+    description: 'Um livro interativo, lúdico e leve para crianças (de qualquer idade) aprenderem a usar CSS com carinho, cor e criatividade!',
+    repoUrl: 'https://www.notion.so/CSS-para-Crian-as-Grandes-2496cbadbdb3805ba1bdfb9c9ce91c3c?source=copy_link',
+  },
+  {
+    title: 'HTML para Crianças Grandes',
+    description: 'Construindo seu primeiro castelo na internet com a Tia Tê e o VS Codinho!',
+    repoUrl: 'https://www.notion.so/HTML-para-Crian-as-Grandes-2496cbadbdb380abbb33ec7f4b32b27e?source=copy_link',
+  },
+  {
     title: '5 Invenções Revolucionárias Criadas por Acidente',
     description: 'O que invenções nos dizem sobre o futuro da tecnologia?',
     repoUrl: 'https://www.notion.so/5-Inven-es-Revolucion-rias-Criadas-por-Acidente-2476cbadbdb38071b975fef293265e61?source=copy_link',
