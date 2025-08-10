@@ -6,7 +6,7 @@ export default function Work() {
     <div>
       <h1 className="font-heading mb-8 text-2xl sm:text-4xl">Um pouco de código ali.</h1>
 
-      <div className="flex flex-col gap-5">
+      <div className="flex flex-col col gap-5">
         {PROJECTS.map((project, id) => {
           return (
             <div
