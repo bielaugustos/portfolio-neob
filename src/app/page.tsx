@@ -1,6 +1,5 @@
 
 import Links from '@/components/links'
-import Image from 'next/image'
 
 
 export default function Home() {
@@ -9,6 +8,9 @@ export default function Home() {
       <h1 className="font-heading text-2xl sm:text-4xl text-center">
         Gabriel Augusto
       </h1>
+
+        <br></br>
+      
       <p className="text-center font-semibold">
         Olá Universo! Sou{" "}
         <span className="font-extrabold text-amber-600">junior web developer</span>{" "}
@@ -36,8 +38,8 @@ export default function Home() {
         <p className="font-base"><span className='text-amber-600'>#existe</span> mais de 11 ambições aqui...</p>
 
 
-
-        <Image src="/asteroidsHome.png" alt="Descrição da imagem" width={400} height={300} className='flex mx-auto' style={{ zIndex: -1 }} />
+        <br></br>
+        <br></br>
 
 
         <p className="text-xs font-normal text-center">
