@@ -35,6 +35,8 @@ export default function Home() {
         </p>
         <p className="font-base"><span className='text-amber-600'>#existe</span> mais de 11 ambições aqui...</p>
 
+
+
         <Image src="/asteroidsHome.png" alt="Descrição da imagem" width={400} height={300} className='flex mx-auto' style={{ zIndex: -1 }} />
 
 

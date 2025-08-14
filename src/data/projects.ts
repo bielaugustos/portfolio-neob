@@ -6,6 +6,13 @@ const PROJECTS: {
   liveLink: string
 }[] = [
   {
+    name: 'Marketing digital com IA',
+    description: 'Uma página para Pequenos Negócios e Criadores de Conteúdo',
+    liveLink: 'https://iolandingpage.vercel.app/',
+    previewImage: '/project8.png',
+    repoUrl: 'https://github.com/bielaugustos/iolandingpage',
+  },
+  {
     name: 'NLW#19 Connect (React) DevStage',
     description: 'Primeira Next Level Week do ano de 2025 - Codecraft Summit (Página de evento)',
     liveLink: 'https://nlw19-connect.vercel.app/',
