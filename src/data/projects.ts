@@ -6,11 +6,11 @@ const PROJECTS: {
   liveLink: string
 }[] = [
   {
-    name: 'Marketing digital com IA',
-    description: 'Uma página para Pequenos Negócios e Criadores de Conteúdo',
-    liveLink: 'https://iolandingpage.vercel.app/',
-    previewImage: '/project8.png',
-    repoUrl: 'https://github.com/bielaugustos/iolandingpage',
+    name: '',
+    description: '',
+    liveLink: '',
+    previewImage: '',
+    repoUrl: '',
   },
   {
     name: 'NLW#19 Connect (React) DevStage',

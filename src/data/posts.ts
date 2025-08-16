@@ -29,15 +29,10 @@ const POSTS: {
     description: 'Construindo seu primeiro castelo na internet com a Tia Tê e o VS Codinho!',
     repoUrl: 'https://www.notion.so/HTML-para-Crian-as-Grandes-2496cbadbdb380abbb33ec7f4b32b27e?source=copy_link',
   },
-  {
-    title: '5 Invenções Revolucionárias Criadas por Acidente',
-    description: 'O que invenções nos dizem sobre o futuro da tecnologia?',
-    repoUrl: 'https://www.notion.so/5-Inven-es-Revolucion-rias-Criadas-por-Acidente-2476cbadbdb38071b975fef293265e61?source=copy_link',
-  },
    {
-    title: 'PESQUISAS CIENTÍFICAS EMERGENTES (2025)',
-    description: 'Uma análise das tendências e inovações em pesquisas científicas. As 10 áreas que estão moldando o futuro da ciência e da humanidade no século XXI.',
-    repoUrl: 'https://www.notion.so/PESQUISAS-CIENTÍFICAS-EMERGENTES-2025-2456cbadbdb380c2969dfc2e46683656?source=copy_link',
+    title: 'Blog Substack',
+    description: 'Um espaço para explorar ideias, compartilhar conhecimentos e conectar-se com uma comunidade de aprendizes (Considere um banco de dados de conteúdo)',
+    repoUrl: 'https://bielaugustos.substack.com',
   },
 ]
 

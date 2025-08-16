@@ -26,7 +26,7 @@ export default function Blog() {
                     href={post.repoUrl}
                     target="_blank"
                   >
-                    Leia no Notion
+                    Acessar o conteúdo
                   </a>
                 </div>
               </div>
