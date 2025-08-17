@@ -29,11 +29,6 @@ const POSTS: {
     description: 'Construindo seu primeiro castelo na internet com a Tia Tê e o VS Codinho!',
     repoUrl: 'https://www.notion.so/HTML-para-Crian-as-Grandes-2496cbadbdb380abbb33ec7f4b32b27e?source=copy_link',
   },
-   {
-    title: 'Blog Substack',
-    description: 'Um espaço para explorar ideias, compartilhar conhecimentos e conectar-se com uma comunidade de aprendizes (Considere um banco de dados de conteúdo)',
-    repoUrl: 'https://bielaugustos.substack.com',
-  },
 ]
 
 export default POSTS

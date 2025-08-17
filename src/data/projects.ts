@@ -6,13 +6,6 @@ const PROJECTS: {
   liveLink: string
 }[] = [
   {
-    name: '',
-    description: '',
-    liveLink: '',
-    previewImage: '',
-    repoUrl: '',
-  },
-  {
     name: 'NLW#19 Connect (React) DevStage',
     description: 'Primeira Next Level Week do ano de 2025 - Codecraft Summit (Página de evento)',
     liveLink: 'https://nlw19-connect.vercel.app/',

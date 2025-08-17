@@ -1,15 +1,15 @@
 import {
   IconType,
   SiGithub,
-  SiGmail,
   SiLinkedin,
+  SiSubstack,
 } from '@icons-pack/react-simple-icons'
 
 export default function Links() {
   const links: { icon: IconType; href: string }[] = [
     {
-      icon: SiGmail,
-      href: 'mailto:gscontatoec@gmail.com',
+      icon: SiSubstack,
+      href: 'https://substack.com/@bielaugustos',
     },
     {
       icon: SiGithub,

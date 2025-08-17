@@ -22,8 +22,8 @@ export default function Nav() {
       text: 'Projetos',
     },
     {
-      path: '/blog',
-      text: 'Blog',
+      path: '/ebooks',
+      text: 'Ebooks',
     },
   ]
 
